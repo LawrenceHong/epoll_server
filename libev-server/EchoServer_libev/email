@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "This is a test" | mail -s "test" mingli19850915@gmail.com
